@@ -25,10 +25,15 @@ std = Standad Deviation of the values
 Freq = Frequency
 
 Name of the Column	      Column #	Type	      Posible Values
+
   Activity	                1	      Char	  WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+  
   Subject	                  2	      Integer	10 12 13 18 20 24 22 23 25 26 ...
+  
 avg( tBodyAcc_mean___X )    3	      Numeric	[-0.99 to 0.99] 
+
 avg( tBodyAcc_mean___Y )	  4	      Numeric	[-0.99 to 0.99] 
+
 avg( tBodyAcc_mean___Z )	  5	      Numeric	[-0.99 to 0.99] 
 avg( tBodyAcc_std___X )	    6	      Numeric	[-0.99 to 0.99] 
 avg( tBodyAcc_std___Y )	    7	      Numeric	[-0.99 to 0.99] 
