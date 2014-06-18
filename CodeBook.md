@@ -11,18 +11,33 @@ The file contain 35 lines and 89 columns.
 
 Key for the names of the columns: 
 ----------------------------------
+
 avg = Average
+
 t = to denote time
+
 Body = Body motion
+
 Gravity = gravitational
+
 Acc = Acceleration
+
 Jerk = Jerk signals
+
 Mag = Magnitude of the signal
-X, Y, Z = The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ
+
+X, Y, Z = The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ 
+and tGyro-XYZ
+
 angle = Angle of the gyroscope
+
 mean = Mean of the values
+
 std = Standad Deviation of the values
+
 Freq = Frequency
+
+==============================================================================================
 
 Name of the Column	||	Column #	||	Type	||	Values
 
