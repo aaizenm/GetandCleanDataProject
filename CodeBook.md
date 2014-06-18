@@ -40,6 +40,7 @@ Freq = Frequency
 ==============================================================================================
 
 Name of the Column	||	Column #	||	Type	||	Values
+==================  || =========  || ====== || ===========================================================
 
 Activity	||	1	||	Character	||	WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
