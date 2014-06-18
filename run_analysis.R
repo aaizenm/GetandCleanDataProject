@@ -1,5 +1,7 @@
 ## run_analysis.R 
 ####################
+## The Samsung files have to be in the working directory as follows:
+## The files should be located at: C:\PredictiveAnalysis\R\GetandCleanData\UCI HAR Dataset
 
 ## 1. Merges the training and the test sets to create one data set.
 #1) First Read the raw data
