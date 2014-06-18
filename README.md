@@ -12,6 +12,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 The Solution:
 ===============
 Hera are 2 files:
+
 1) run_analysis.R that contains the process to achieve all the 5 questions related to the input data, choosing the proper columns, tidying of the data, mean and std calculations, assignment of the proper names, and preparation for the Tidy data in question #5
 
 2) CodeBook.md : A complete description of the fields of the Tidy Data uploaded with name: Q5
