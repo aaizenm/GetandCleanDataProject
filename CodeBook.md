@@ -9,7 +9,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 The file contain 35 lines and 89 columns.
 
-Key for the names of the columns:
+Key for the names of the columns: 
 ----------------------------------
 avg = Average
 t = to denote time
